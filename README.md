@@ -16,6 +16,6 @@ Pontos de soltura dos peixes.
 
 Saída:
 
-Armazena o resultado de cada registro na camada de captura 
+Armazena o resultado de cada registro na camada de captura.
 
 Gera uma feature com o caminho de cada peixe.
