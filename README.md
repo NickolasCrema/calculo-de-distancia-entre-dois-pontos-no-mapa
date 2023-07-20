@@ -12,6 +12,8 @@ Pontos de captura dos peixes.
 
 Pontos de soltura dos peixes.
 
+---
+
 Saída:
 
 Armazena o resultado de cada registro na camada de captura 
