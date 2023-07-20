@@ -8,14 +8,14 @@ Entrada:
 
 Estrutura de grafo que representa a hidrografia da região, sendo os vértices suas intersecções e arestas seus caminhos (criada por ferramenta auxiliar).
 
-Pontos de captura dos peixes.
+Camada de pontos de recaptura dos peixes.
 
-Pontos de soltura dos peixes.
+Camada de pontos de soltura dos peixes.
 
 ---
 
 Saída:
 
-Armazena o resultado de cada registro na camada de captura.
+Armazena o resultado de cada registro na camada de soltura.
 
 Gera uma feature com o caminho de cada peixe.
