@@ -31,3 +31,4 @@ Gera uma camada com o caminho de cada registro.
 
 <h4>Saída:</h4>
 <img src='https://github.com/NickolasCrema/imagens_readmes/blob/main/projeto_peixes/output_path.png?raw=true', alt='saida'/>
+<img src='https://github.com/NickolasCrema/imagens_readmes/blob/main/projeto_peixes/output_db.PNG?raw=true' width=700px, alt='saida-db'/>
