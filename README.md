@@ -2,8 +2,7 @@
 
 ---
 
-Tool de geoprocessamento que realiza o cálculo do menor caminho, utilizando o algoritmo A*, entre dois pontos do mapa com base em uma malha de linhas. Desenvolvida para realizar o calculo de percorrimento dos peixes do lago da piracema, com base em seus pontos de captura e soltura. 
-
+Tool de geoprocessamento que realiza o cálculo do menor caminho, utilizando o algoritmo A*, entre dois pontos do mapa com base em uma malha de linhas.
 <h3>Recebe três entradas</h3>
 
 Estrutura de grafo gerada pela malha de linhas, sendo os vértices suas intersecções e arestas seus caminhos (criada por ferramenta auxiliar).
